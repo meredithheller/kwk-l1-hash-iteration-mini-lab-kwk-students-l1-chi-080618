@@ -8,9 +8,6 @@ def create_olympics_hash
   }
   summer_olympics
 end
-
-
-
 def add_a_key_value_pair
   
   summer_olympics = create_olympics_hash
